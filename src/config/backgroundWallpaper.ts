@@ -70,17 +70,21 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否允许用户通过控制面板切换横幅标题显示
 			switchable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "白日做梦家达令鹿的博客",
 			// 主页横幅主标题字体大小
 			titleSize: "3.8rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"在这漫长而美好的一生里，如果你真找到了想做的事情，那么无论何时你决定再次开始，都不算晚。",
+				"世界上大部分事，都没有太大意义，真理与热爱除外。",
+				"一以贯之的努力，不得懈怠的人生。每天的微小积累会决定最终结果，这就是答案。",
+				"成为天才并不是解决一切困难的法宝，但真正的天才们永远坦然无畏，洞悉本心，忠于理想，追寻所爱，始终不渝。",
+				"人的每一念选择，会造就一个不同的世界。",
+				"不要被世界改变，你就改变了世界。",
+				"其实我们每一天，都站在已知和未知的边缘。未知才是最美妙的事情。",
+				"没有人可以只凭一次考试的成绩、一张试卷、一个分数，就决定我们的人生，尤其是我们自己。",
+				"命运才是那座最残酷的高山，没有人能逾越。在这座高山面前，人人平等，一切都什么大不了。",
+				"如果她想要什么，就应该努力争取，因为畏惧失败而把真实愿望藏在心里直至腐烂，是非常不正确的做法。"
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",

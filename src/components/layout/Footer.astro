@@ -38,20 +38,20 @@ if (footerConfig.enable) {
     <div class="mb-2">
       {customFooterHtml && <div set:html={customFooterHtml} />}
     </div>
-    <div class="m-0.5">
-      &copy; <span id="copyright-year">{currentYear}</span>
-      {profileConfig.name}. All Rights Reserved. /
-      <a
-        class="transition link text-(--primary) font-medium"
-        target="_blank"
-        href={url("rss.xml")}>RSS</a
-      > /
-      <a
-        class="transition link text-(--primary) font-medium"
-        target="_blank"
-        href={url("sitemap-index.xml")}>Sitemap</a
-      >
-    </div>
+    <!--<div class="m-0.5">-->
+    <!--  &copy; <span id="copyright-year">{currentYear}</span>-->
+    <!--  {profileConfig.name}. All Rights Reserved. /-->
+    <!--  <a-->
+    <!--    class="transition link text-(&#45;&#45;primary) font-medium"-->
+    <!--    target="_blank"-->
+    <!--    href={url("rss.xml")}>RSS</a-->
+    <!--  > /-->
+    <!--  <a-->
+    <!--    class="transition link text-(&#45;&#45;primary) font-medium"-->
+    <!--    target="_blank"-->
+    <!--    href={url("sitemap-index.xml")}>Sitemap</a-->
+    <!--  >-->
+    <!--</div>-->
     <div class="m-0.5">
       Powered by
       <a

@@ -1,7 +1,7 @@
 // 音乐播放器配置
 export type MusicPlayerConfig = {
 	// 使用方式：'meting' 或 'local'
-	mode?: "meting" | "local"; // "meting" 使用 Meting API，"local" 使用本地音乐列表
+	mode?: "meting" | "local" ; // "meting" 使用 Meting API，"local" 使用本地音乐列表
 
 	// 默认音量 (0-1)
 	volume?: number;
@@ -18,7 +18,7 @@ export type MusicPlayerConfig = {
 	// Meting API 配置
 	meting?: {
 		// Meting API 地址
-		api?: string;
+		api?: string ;
 
 		// 音乐平台：netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
 		server?: "netease" | "tencent" | "kugou" | "xiami" | "baidu";
