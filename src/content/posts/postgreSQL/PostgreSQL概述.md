@@ -1,6 +1,6 @@
 ---
 title: PostgreSQL概述
-published: 2026-01-04
+published: 2026-06-15
 tags: ["数据库","PostgreSQL","数据库原理"]
 category: 数据库
 image: "./img.png"
