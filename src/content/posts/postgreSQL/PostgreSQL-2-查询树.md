@@ -1,5 +1,5 @@
 ---
-title: 第二章-查询书
+title: 第二章-查询树
 published: 2026-06-15 01:00:00
 tags: ["数据库","PostgreSQL","数据库原理"]
 category: PostgreSQL
